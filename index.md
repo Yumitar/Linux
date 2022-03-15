@@ -1,11 +1,20 @@
 ## Welcome to GitHub Pages
 
+### Busquedas
+
+### Dockers
+
+### Bucles
+
 You can use the [editor on GitHub](https://github.com/Yumitar/scripts_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
+### Markdown
+
+### Markdown
 Veamos algunas de las forma que tiene Markdown para presentar la informacion de forma sencilla:
 
 ```markdown
