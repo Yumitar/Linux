@@ -29,6 +29,9 @@ SHIFT V
 #
 ESC
 ```
+```
+nmap -p- -sS --min-rate 5000 --open  -vvv -n -Pn 10.10.10.224 -oG allPorts
+```
 
 You can use the [editor on GitHub](https://github.com/Yumitar/scripts_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
