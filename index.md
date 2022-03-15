@@ -42,11 +42,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Veamos algunas de las forma que tiene Markdown para presentar la informacion de forma sencilla:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
