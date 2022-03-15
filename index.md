@@ -19,9 +19,9 @@ ls -ltr
 
 ### vi
 ```
-CTRL + V
+CTRL + v
 TECLAS CURSOR
-SHIFT V
+SHIFT i
 #
 ESC
 ```
