@@ -3,14 +3,32 @@
 ### Busquedas
 
 ```markdown
-ls -ltr
+find . -name "*text*"
 ```
-```
-ls -ltr
-```
+
 ### Dockers
 
+```
+docker container ls 
+docker container ls -a
+docker container ls -a --format "table {{.Names}}" 
+```
+
 ### Bucles
+
+```
+ls -ltr
+```
+
+### vi
+
+```
+CTRL + V
+TECLAS CURSOR
+SHIFT V
+#
+ESC
+```
 
 You can use the [editor on GitHub](https://github.com/Yumitar/scripts_test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
