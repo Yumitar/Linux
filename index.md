@@ -2,6 +2,12 @@
 
 ### Busquedas
 
+```markdown
+ls -ltr
+```
+```
+ls -ltr
+```
 ### Dockers
 
 ### Bucles
