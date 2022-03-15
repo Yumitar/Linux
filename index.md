@@ -6,6 +6,7 @@ find . -name "*text*"
 ```
 
 ### Dockers
+docker container ls -a --format "table {{.Names}}" 
 ```
 docker container ls 
 docker container ls -a
