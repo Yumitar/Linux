@@ -1,13 +1,11 @@
 ## Comandos linux
 
 ### Busquedas
-
 ```markdown
 find . -name "*text*"
 ```
 
 ### Dockers
-
 ```
 docker container ls 
 docker container ls -a
@@ -15,13 +13,11 @@ docker container ls -a --format "table {{.Names}}"
 ```
 
 ### Bucles
-
 ```
 ls -ltr
 ```
 
 ### vi
-
 ```
 CTRL + V
 TECLAS CURSOR
@@ -29,6 +25,7 @@ SHIFT V
 #
 ESC
 ```
+### Escaneo de puertos
 ```
 nmap -p- -sS --min-rate 5000 --open  -vvv -n -Pn 10.10.10.224 -oG allPorts
 ```
