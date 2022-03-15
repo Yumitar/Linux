@@ -1,4 +1,4 @@
-## Linux common commands
+## Comandos linux
 
 ### Busquedas
 
