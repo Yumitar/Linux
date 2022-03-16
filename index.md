@@ -1,5 +1,7 @@
 ## Comandos linux
 
+[a link](https://yumitar.github.io/scripts_test/test.md)
+
 ### Busquedas
 ```markdown
 find . -name "*text*"
