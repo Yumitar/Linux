@@ -1,6 +1,6 @@
 ## Comandos linux
 
-[Comandos rapidos](https://yumitar.github.io/scripts_test/test)
+[Comandos rapidos](https://yumitar.github.io/Linux/test)
 
 ### Busquedas
 ```markdown
