@@ -1,12 +1,13 @@
 
-### Configurar vim
+### Crear estructura de carpetas para vim y fichero de configuración
 ```
  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/color ~/.vim/plugged
 
  touch ~/.vimrc
+ ```
 
-
-#~/.vimrc
+### Configuracion de fichero vimrc
+```
  " Disable compatibility with vi which can cause unexpected issues.
 set nocompatible
 
@@ -118,8 +119,4 @@ augroup END
 " Status bar code goes here.
 
 " }}}
-
-
  ```
-
-
