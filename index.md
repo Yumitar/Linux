@@ -19,6 +19,8 @@ docker container ls -a --format "table {{.Names}}"
 ```
 ls -ltr
 ```
+
+```
 zo to open a single fold under the cursor.
 
 zc to close the fold under the cursor.
