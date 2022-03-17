@@ -13,4 +13,5 @@ Awesonme
 https://github.com/sindresorhus/awesome
 
 vimrc
+
 https://www.freecodecamp.org/news/vimrc-configuration-guide-customize-your-vim-editor/
