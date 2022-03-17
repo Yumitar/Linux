@@ -1,7 +1,7 @@
 
 ### Crear estructura de carpetas para vim y fichero de configuración
 ```
- mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/color ~/.vim/plugged
+ mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
 
  touch ~/.vimrc
  ```
