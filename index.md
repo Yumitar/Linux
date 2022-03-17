@@ -18,6 +18,12 @@ docker container ls -a --format "table {{.Names}}"
 ```
 ls -ltr
 ```
+### Configurar vim
+```
+ mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/color ~/.vim/plugged
+
+ 
+ ```
 
 ### vi
 ```
