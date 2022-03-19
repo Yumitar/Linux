@@ -8,6 +8,7 @@
 
 [Links de interes](https://yumitar.github.io/Linux/links)
 
+
 ### Busquedas
 ```markdown
 find . -name "*text*"
