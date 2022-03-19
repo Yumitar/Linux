@@ -2,7 +2,7 @@
 
 Bluteam
 
-(https://cyberdefenders.org/)
+https://cyberdefenders.org/
 
 arping
 jsdhds
