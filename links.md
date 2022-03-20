@@ -9,7 +9,7 @@
 
 <https://cmdsistemas.wordpress.com/2011/12/12/herramientas-de-monitorizacion-arp-para-linux/>
 
-### Awesonme
+### Awesome
 
 <https://github.com/sindresorhus/awesome>
 

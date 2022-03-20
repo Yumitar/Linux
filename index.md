@@ -27,7 +27,3 @@ docker export nagios > nagios.tar
 ```
 ls -ltr
 ```
-
-kk
-
-
