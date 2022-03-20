@@ -22,3 +22,7 @@
 ### diccionarios 
 
 <https://github.com/danielmiessler/SecLists>
+
+### Payloads
+
+<https://github.com/swisskyrepo/PayloadsAllTheThings>
