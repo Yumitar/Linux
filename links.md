@@ -26,3 +26,13 @@
 ### Payloads
 
 <https://github.com/swisskyrepo/PayloadsAllTheThings>
+
+### gits
+
+https://lolbas-project.github.io
+https://gtfobins.github.io
+https://wadcoms.github.io
+
+## Hash
+
+https://crackstation.net/
