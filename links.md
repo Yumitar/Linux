@@ -29,10 +29,10 @@
 
 ### gits
 
-https://lolbas-project.github.io
-https://gtfobins.github.io
-https://wadcoms.github.io
+<https://lolbas-project.github.io>
+<https://gtfobins.github.io>
+<https://wadcoms.github.io>
 
 ## Hash
 
-https://crackstation.net/
+<https://crackstation.net/>
